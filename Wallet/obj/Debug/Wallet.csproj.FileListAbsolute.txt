@@ -1,1 +1,9 @@
 E:\Wallet\Wallet\Wallet\bin\Debug\Wallet.exe.config
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\Wallet.exe.config
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\Wallet.exe
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\Wallet.pdb
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\obj\Debug\Wallet.exe
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\obj\Debug\Wallet.pdb
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\money.dll
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\money.pdb
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\obj\Debug\Wallet.csprojResolveAssemblyReference.cache
