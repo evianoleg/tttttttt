@@ -1,1 +1,2 @@
 E:\Wallet\Wallet\Wallet\bin\Debug\Wallet.exe.config
+D:\7777\Wallet\bin\Debug\Wallet.exe.config
