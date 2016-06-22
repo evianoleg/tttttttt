@@ -7,3 +7,5 @@ C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\obj\Debug\Wallet.pdb
 C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\money.dll
 C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\money.pdb
 C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\obj\Debug\Wallet.csprojResolveAssemblyReference.cache
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\CreditCard.dll
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\CreditCard.pdb

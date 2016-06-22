@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using money;
+using CreditCard;
+
 namespace Wallet
 {
     class Program
@@ -15,7 +17,9 @@ namespace Wallet
             
             
             int myMoney = 100;
-
+            Card c = new Card();
+            c.cred = 1000;
+            myMoney += c.cred;
         }
     }
 }
