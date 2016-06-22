@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43ED1FDD-7500-4AE6-8E7C-079CE4204B5A}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{B9B664CF-940C-408C-98A1-3D3B0DDA77B5}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Wallet</RootNamespace>
-    <AssemblyName>Wallet</AssemblyName>
+    <RootNamespace>CreditCard</RootNamespace>
+    <AssemblyName>CreditCard</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -32,9 +30,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="money">
-      <HintPath>..\money\bin\Debug\money.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,23 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-<<<<<<< HEAD
-    <ProjectReference Include="..\BusinessCard\BusinessCard.csproj">
-      <Project>{16642b70-23cd-4e28-8fda-c03e2865655e}</Project>
-      <Name>BusinessCard</Name>
-=======
-    <ProjectReference Include="..\CreditCard\CreditCard.csproj">
-      <Project>{b9b664cf-940c-408c-98a1-3d3b0dda77b5}</Project>
-      <Name>CreditCard</Name>
->>>>>>> 820a4ed990ffbfdff83a16c5936c35a4a98bbfff
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
