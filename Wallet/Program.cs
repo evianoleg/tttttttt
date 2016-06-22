@@ -15,6 +15,7 @@ namespace Wallet
             Card c = new Card();
             c.cred = 1000;
             myMoney += c.cred;
+            myMoney += 1000;
         }
     }
 }
