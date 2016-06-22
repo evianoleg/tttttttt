@@ -51,15 +51,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <ProjectReference Include="..\BusinessCard\BusinessCard.csproj">
       <Project>{16642b70-23cd-4e28-8fda-c03e2865655e}</Project>
       <Name>BusinessCard</Name>
-=======
     <ProjectReference Include="..\CreditCard\CreditCard.csproj">
       <Project>{b9b664cf-940c-408c-98a1-3d3b0dda77b5}</Project>
       <Name>CreditCard</Name>
->>>>>>> 820a4ed990ffbfdff83a16c5936c35a4a98bbfff
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
