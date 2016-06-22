@@ -1,0 +1,5 @@
+C:\Users\abb.IT-STEP\Desktop\Новая папка\money\bin\Debug\money.dll
+C:\Users\abb.IT-STEP\Desktop\Новая папка\money\bin\Debug\money.pdb
+C:\Users\abb.IT-STEP\Desktop\Новая папка\money\obj\Debug\money.csprojResolveAssemblyReference.cache
+C:\Users\abb.IT-STEP\Desktop\Новая папка\money\obj\Debug\money.dll
+C:\Users\abb.IT-STEP\Desktop\Новая папка\money\obj\Debug\money.pdb

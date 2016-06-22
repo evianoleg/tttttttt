@@ -1,0 +1,4 @@
+C:\Users\abb.IT-STEP\Desktop\Новая папка\CreditCard\bin\Debug\CreditCard.dll
+C:\Users\abb.IT-STEP\Desktop\Новая папка\CreditCard\bin\Debug\CreditCard.pdb
+C:\Users\abb.IT-STEP\Desktop\Новая папка\CreditCard\obj\Debug\CreditCard.dll
+C:\Users\abb.IT-STEP\Desktop\Новая папка\CreditCard\obj\Debug\CreditCard.pdb

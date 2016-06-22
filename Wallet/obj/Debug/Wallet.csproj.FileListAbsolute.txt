@@ -1,1 +1,15 @@
 E:\Wallet\Wallet\Wallet\bin\Debug\Wallet.exe.config
+<<<<<<< HEAD
+D:\7777\Wallet\bin\Debug\Wallet.exe.config
+=======
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\Wallet.exe.config
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\Wallet.exe
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\Wallet.pdb
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\obj\Debug\Wallet.exe
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\obj\Debug\Wallet.pdb
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\money.dll
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\money.pdb
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\obj\Debug\Wallet.csprojResolveAssemblyReference.cache
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\CreditCard.dll
+C:\Users\abb.IT-STEP\Desktop\Новая папка\Wallet\bin\Debug\CreditCard.pdb
+>>>>>>> 820a4ed990ffbfdff83a16c5936c35a4a98bbfff
